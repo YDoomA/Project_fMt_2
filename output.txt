@@ -1,0 +1,63 @@
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
+Key: qwe Value: as
+Key: ewq1 Value: f3 12
+Key: test1 Value: test:test2
+Key: Первая строка Value: первый текст
+Key: Вторая строка  Value:  текст: второй :
+Key: что-то ещё с кучей символолваоп Value: ывоталотап:аЫВ:ываывп:ыапвап:
+
