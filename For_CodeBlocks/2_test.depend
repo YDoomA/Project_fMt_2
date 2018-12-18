@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1539069307 source:/home/dooma/Programming/MyTona/2_test/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1539178163 source:/home/dooma/Programming/MyTona/2_test/For_CodeBlocks/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
